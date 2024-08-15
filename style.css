@@ -1,0 +1,33 @@
+#main-div{
+    width: 60%;
+    height: fit-content;
+    padding: 20px 25px;
+    margin: 0 auto;
+    text-align: center;
+    display: grid;
+    /* grid-template-columns: repeat(3,1fr); */
+    background-color: cadetblue;
+    color: #fff;
+    /* background-color: indianred; */
+}
+/* #main-div1{
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+} */
+#main-div input{
+    width: 40%;
+    padding: 14px 20px;
+    border-radius: 8px;
+    border: none;
+    box-shadow: 3px 2px  8px ;
+    outline: 0;
+}
+#btn{
+    margin-top: 15px;
+    padding: 10px 20px;
+    background-color: darkblue;
+    color: #fff;
+    border: 0;
+    border-radius: 8px;
+    cursor: pointer;
+}
